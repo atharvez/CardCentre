@@ -1,10 +1,10 @@
-﻿# CardCentre ðŸƒ
+# CardCentre
 
 A full-stack e-commerce platform for trading cards built with Next.js and TypeScript.
 
 ## Overview
 
-CardCentre is a modern trading card marketplace where collectors can buy, sell, and discover rare cards from popular TCG sets. The platform provides a clean, responsive UI with real-time inventory management.
+CardCentre is a modern trading card marketplace where collectors can buy, sell, and discover rare cards from popular TCG sets. Clean, responsive UI with real-time inventory management.
 
 ## Tech Stack
 
@@ -17,12 +17,11 @@ CardCentre is a modern trading card marketplace where collectors can buy, sell, 
 
 ## Features
 
-- ðŸ›’ **Product Catalogue** â€” Browse cards by set, rarity, and price
-- ðŸ” **Search & Filter** â€” Find specific cards quickly
-- ðŸ›ï¸ **Cart & Checkout** â€” Smooth purchase flow
-- ðŸ“¦ **Inventory Management** â€” Real-time stock tracking
-- ðŸ–¼ï¸ **Card Previews** â€” High-quality card images
-- ðŸ“± **Responsive Design** â€” Works on all devices
+- Product catalogue -- browse cards by set, rarity, and price
+- Search and filter -- find specific cards quickly
+- Cart and checkout -- smooth purchase flow
+- Inventory management -- real-time stock tracking
+- Responsive design -- works on all devices
 
 ## Getting Started
 
@@ -50,4 +49,4 @@ CardCentre/
 
 ## License
 
-MIT Â© [Atharva Desai](https://github.com/atharvez)
+MIT (c) Atharva Desai
