@@ -39,12 +39,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ```
 CardCentre/
-â”œâ”€â”€ app/                    # Next.js app router pages
-â”‚   â”œâ”€â”€ (routes)/          # Route groups
-â”‚   â””â”€â”€ api/               # API endpoints
-â”œâ”€â”€ components/            # Reusable UI components
-â”œâ”€â”€ lib/                   # Utility functions & helpers
-â””â”€â”€ public/                # Static assets
+|-- app/                    # Next.js app router pages
+|   |-- (routes)/          # Route groups
+|   \-- api/               # API endpoints
+|-- components/            # Reusable UI components
+|-- lib/                   # Utility functions & helpers
+\-- public/                # Static assets
 ```
 
 ## License
